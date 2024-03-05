@@ -1,6 +1,6 @@
-# Exercícios de Análise e Desenvolvimento de Sistemas
+# Exercícios de Python
 
-Este repositório é destinado ao armazenamento de códigos de estudo relacionados aos exercícios da faculdade de Análise e Desenvolvimento de Sistemas. Aqui você encontrará uma variedade de exercícios práticos, dos quais precisei completar para as disciplinas em questão e organizados por pastas 📚💻
+Este repositório é destinado ao armazenamento de códigos de estudo relacionados a exercícios de Python. Aqui você encontrará uma variedade de exercícios práticos. 📚💻
 
 Sinta-se à vontade para explorar os arquivos e utilizar os códigos como material de estudo. 🤝🚀
 
